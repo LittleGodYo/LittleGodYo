@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=QA+Automation+Python)](https://git.io/typing-svg)
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/LittleGodYo)
+[![codewars](https://user-images.githubusercontent.com/106131067/175815643-de327f6f-d692-4421-9c3d-f6bf14055813.svg)](https://www.codewars.com/users/LittleGodYo)
